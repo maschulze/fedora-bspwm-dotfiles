@@ -23,7 +23,7 @@ while :; do
     sleep 5
 done &
 
-#Fix Mouse curoor on startup 
+#Fix Mouse cursor on startup 
 xsetroot -cursor_name left_ptr
 
 wmname LG3D
