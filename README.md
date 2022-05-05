@@ -1,1 +1,1 @@
-# fedora-dotfiles
+# fedora-bspwm-dotfiles
